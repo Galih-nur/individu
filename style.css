@@ -31,3 +31,19 @@
     text-align: center;
     margin: 0 15px;
 }
+.bio-text p {
+    text-align: left;
+}
+.teman {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.311);
+}
+#main-teman {
+    margin-top: 50px;
+    gap: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
